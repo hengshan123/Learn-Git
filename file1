@@ -1,4 +1,5 @@
 add file 1 on mac 
 now i want add something:
 def fuck():
-	print 'fuck u'
+	#print 'fuck u'
+    print 'please be nice'
